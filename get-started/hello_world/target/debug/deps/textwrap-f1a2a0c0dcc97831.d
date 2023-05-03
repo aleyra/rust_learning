@@ -1,0 +1,11 @@
+/nfs/homes/lburnet/Documents/rust_learning/get-started/hello_world/target/debug/deps/textwrap-f1a2a0c0dcc97831.rmeta: /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/nfs/homes/lburnet/Documents/rust_learning/get-started/hello_world/target/debug/deps/libtextwrap-f1a2a0c0dcc97831.rlib: /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/nfs/homes/lburnet/Documents/rust_learning/get-started/hello_world/target/debug/deps/textwrap-f1a2a0c0dcc97831.d: /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs /nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs
+
+/nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/lib.rs:
+/nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/indentation.rs:
+/nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/splitting.rs:
+/nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core.rs:
+/nfs/homes/lburnet/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.13.4/src/core/optimal_fit.rs:
