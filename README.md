@@ -1,2 +1,3 @@
 # Useful links given by sempai
-* https://rust-book.cs.brown.edu/experiment-intro.html
+* https://doc.rust-lang.org/book/
+	* https://rust-book.cs.brown.edu/experiment-intro.html
